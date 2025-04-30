@@ -66,7 +66,7 @@ do{
 //
 
 
-//For loop:
+//For of loop:
 let str="nihalnughman"
 let size=0
 for (let character of str){
