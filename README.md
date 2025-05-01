@@ -10,3 +10,14 @@ Array Method:
 4:concat() joins multiple arrays and  return result
 5:unshift() add to start
 6:shift()  delete from start & return
+
+
+String method:
+1:ToUppercase()Use for large variable
+2:ToLowercase()Use for small variable
+3:trim()Use for finished space
+4:Slice()Use for extracts a part of a string and returns the extracted part
+5:concat()Use for join value
+6:replace()Use for replace
+7:charAt()Use for retreival indeices
+
