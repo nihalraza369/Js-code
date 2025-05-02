@@ -21,3 +21,9 @@ String method:
 6:replace()Use for replace
 7:charAt()Use for retreival indeices
 
+
+array method:
+1:foreach in loop array
+2:Map in loop array
+3:Filter in loop array
+4:Reduce in loop array
