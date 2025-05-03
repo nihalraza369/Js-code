@@ -22,7 +22,7 @@ String method:
 7:charAt()Use for retreival indeices
 
 
-array method:
+method:
 1:foreach in loop array
 2:Map in loop array
 3:Filter in loop array
