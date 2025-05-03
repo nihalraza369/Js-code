@@ -1,0 +1,20 @@
+#headin{
+    font-size: 2em;
+    color: #ffffff;
+    text-align: center;
+    background-color: rgb(239, 234, 234);
+}
+body{
+    background-color: #c9ccb6;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+.heading{
+    font-size: 2em;
+    color: #ff0000;
+    text-align: center;
+    background-color: black;
+}
